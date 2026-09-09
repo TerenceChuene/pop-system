@@ -1,0 +1,6 @@
+@pop_system_HostAddress = http://localhost:5230
+
+GET {{pop_system_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

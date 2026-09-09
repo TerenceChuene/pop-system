@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dszwNFC01Y=",
+  "success": true,
+  "projectFilePath": "/home/takashi/Desktop/pop-system/pop-system.csproj",
+  "expectedPackageFiles": [
+    "/home/takashi/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/home/takashi/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
